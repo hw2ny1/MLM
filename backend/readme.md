@@ -1,16 +1,9 @@
-# <center>  Outline of MirrorMe </center>
-- 제작기간 : 2023년 7월 4일 2023(Tue) ~ 2023년 8월 18일(Fri)
-- 프로젝트 주제: **가족 소통**을 위한 **스마트미러**
-- 팀 명: 1OT(One of Team)
-- 서비스명: *MirrorMe (MLM)*
-
-## 👨‍👩‍👧‍👦 Outline of 1OT
-- IOT : 신성환(팀장), 김성현 ( 🛩 [IOT 상세 README](https://lab.ssafy.com/s09-webmobile3-sub2/S09P12E101/-/tree/master/IoT) )
-- BACKEND: 김규리, 황주원 ( 🛩 [BACKEND 상세 README](https://lab.ssafy.com/s09-webmobile3-sub2/S09P12E101/-/tree/master/Backend) )
-- FRONTEND: 이소정, 이진형 ( 🛩 [FRONTEND 상세 README](https://lab.ssafy.com/s09-webmobile3-sub2/S09P12E101/-/tree/master/Frontend) ) 
+# 🙌 1OT - MLM(Mirror me)
+MLM 프로젝트는 가족간 소통 촉진을 위한 가정용 SmartMirror프로젝트예요!
+해당 Respository는 MLM-Backend전용 레포지토리입니다.
 
 
-## 😎 About Service of MLM
+## 😎 MLM의 Mirror/Application는 이런 일을 해요!
 ### Application
 - Application에서 GoogleOAuth로 로그인을 진행합니다.
 - 사용자는 간단히 자신의 프로필(사진포함)/집안 정보를 기입하고, SmartMirror의 QR을 인식합니다. (프로필 사진은 IOT서버 내의 openCV로 학습되어 FaceID가 생성됩니다.)
@@ -34,9 +27,30 @@
     - ✔ *사용자의 유투브 영상 출력 요구시 수행*
     - ✔ *사용자의 영상메시지 촬영 요구시 수행*
 
-## 👀 MLM Action Sequence Diagram
-![title](./imgForReadme/MLM-SequenceDiagram.png)   
+## 👀동작과정 시퀀스 다이어그램이에요!
+![title](../imgForReadme/MLM-SequenceDiagram.png)   
 
 
-## 🙋‍♀️ MLM Technology Stach Diagram
-![title](./imgForReadme/MLM-SkillDiagram.png)   
+## 🙋‍♀️ MLM-Backend 기술스택이에요!
+![title](../imgForReadme/MLM-SkillDiagram.png)  
+
+
+
+## 🛠 기능 엿보기   
+
+
+
+## ✔사용한 툴, 언어 버전정보
+| ToolName| Version |
+| --- | --- |
+| Java | 11 |
+| SpringBoot(Gradle) | 2.7.13 |
+| MariaDB | 10.11 |
+| Redis | 7.0 |
+| IntelliJ | 2019.3.5, 2023.1.3 |
+| Docker| 24.0.4 |
+
+
+## ✔ DB스키마
+![title](../imgForReadme/MLM_DBTable.png)   
+
