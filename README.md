@@ -5,9 +5,9 @@
 - 서비스명: *MirrorMe (MLM)*
 
 ## 👨‍👩‍👧‍👦 Outline of 1OT
-- IOT : 신성환(팀장), 김성현 ( 🛩 [IOT 상세 README](https://lab.ssafy.com/s09-webmobile3-sub2/S09P12E101/-/tree/master/IoT) )
-- BACKEND: 김규리, 황주원 ( 🛩 [BACKEND 상세 README](https://lab.ssafy.com/s09-webmobile3-sub2/S09P12E101/-/tree/master/Backend) )
-- FRONTEND: 이소정, 이진형 ( 🛩 [FRONTEND 상세 README](https://lab.ssafy.com/s09-webmobile3-sub2/S09P12E101/-/tree/master/Frontend) ) 
+- IOT : 신성환(팀장), 김성현 ( 🛩 [IOT 상세 README](https://github.com/hw2ny1/MLM/blob/main/IoT/README.md) )
+- BACKEND: 김규리, 황주원 ( 🛩 [BACKEND 상세 README](https://github.com/hw2ny1/MLM/blob/main/backend/readme.md) )
+- FRONTEND: 이소정, 이진형 ( 🛩 [FRONTEND 상세 README](https://github.com/hw2ny1/MLM/blob/main/Frontend/README.md) ) 
 
 
 ## 😎 About Service of MLM
